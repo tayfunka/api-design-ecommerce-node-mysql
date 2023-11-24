@@ -15,15 +15,16 @@ This project implements a simple Node.js API for managing products and shopping 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ono-products-nodejs.git
+   git clone https://github.com/tayfunka/api-design-ecommerce-node-mysql
+git
 
 2. Install dependencies:
 ```bash
-cd ono-products-nodejs
+cd api-design-ecommerce-node-mysql
 npm install
 ```
 3. Configure the database:
-  - Create a MySQL database named ono_products.
+  - Create a MySQL database named api-design-ecommerce-node-mysql.
   - Update the database connection details in db.js.
 
 4. Run the application:
